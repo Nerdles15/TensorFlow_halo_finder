@@ -65,7 +65,7 @@ Install TensorFlow (compatible with Python2) from the following link:
 
 	`https://www.tensorflow.org/install/`
 
-##### IIa: Installation Troubleshooting- #####
+### IIa: Installation Troubleshooting- ###
 
 Following instructions from the provided links should be sufficient for most systems.
 
@@ -110,12 +110,12 @@ Includes all previously mentioned functions of demo version, but in addition can
 
 If you wish to run user-supplied data, be sure to add new code accordingly in TF_HALO_TEST.py as well as calculate halos using alternative halo finders for a direct comparison (currently only includes comparison for 64^3 and 128^3 tests).
 
-##### IIIa: Demo- #####
+### IIIa: Demo- ###
 
 Navigate to `cd /[YOUR/SYS/PATH/HERE]/Release_Version/Demo/`.
 
 
-Contents will include the halo finding program (tf_halo_finder_v1.0.py), the standalone plotting program (halo_plotting.py), and the two test data files (TestPoints_all_param.txt (64^3) and Fullscale.txt (128^3)).
+Contents will include the halo finding program (tf_halos.py), the standalone plotting program (halo_plotting.py), and the two test data files (TestPoints_all_param.txt (64^3) and Fullscale.txt (128^3)).
 
 
 Execute the program with `python tf_halos.py` and follow the command line instructions to choose the parameters of the run.
@@ -127,7 +127,7 @@ Choices will include 64^3 vs 128^3 file, normalized vs non-normalized data, and 
 
 -Full will begin an unsupervised KMeans run, find the optimal number of clusters, separate the individual particles into respective halos, then plot the particle + halo positions in a 3D plot, plus calculate the mass of each halo and plot the halo mass function in a histogram.
 
-##### IIIb: Experimental- #####
+### IIIb: Experimental- ###
 
 Navigate to `cd /[YOUR/SYS/PATH/HERE]/Release_Version/Experimental`.
 
