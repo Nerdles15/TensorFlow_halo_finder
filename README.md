@@ -28,6 +28,7 @@ V: 		Creating Datasets
 
 
 ## I: Info- ##
+<pre>
 My system specs (Late-2015 Macbook Pro):
 	-MacOS Sierra v.10.12.6
 	-2.8 GHz quad-core i7
@@ -49,7 +50,7 @@ TensorFlow info:
     		-contrib (package), core (package), examples (package), libtensorflow_framework, python (package), tools (package)
     	SUBMODULES:
     		-app, bitwise, compat, data, distributions, errors, estimator, feature_column, flags, gfile, graph_util, image, initializers, keras, layers, linalg, logging, losses, metrics, nn, profiler, python_io, pywrap_tensorflow, resource_loader, saved_model, sets, spectral, summary, sysconfig, test, train, user_ops
-
+</pre>
 
 
 ## II: Installation- ##
