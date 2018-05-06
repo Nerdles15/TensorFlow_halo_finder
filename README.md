@@ -1,30 +1,30 @@
 #---------------------------------------------------------------------#
-#                    Tensorflow Halo Finder (Kmeans)				  #
+#                    Tensorflow Halo Finder (Kmeans)		      #
 #                       Will Kinney, John Nord                        #
 #                    Using updated API as of 5/3/18  	              #
 #---------------------------------------------------------------------#
 
-*******************************
-*  _________________________  *
-* /_____   _____/  ________/  *
-*      /  /    /  /___        *
-*     /  /    /  ____/        *
-*    /  /    /  /             *
-*   /  /    /  /              *
-*  /__/    /__/  Halo Finder  *
-*******************************
+-------------------------------
+-  _________________________  -
+- /_____   _____/  ________/  -
+-      /  /    /  /___        -
+-     /  /    /  ____/        -
+-    /  /    /  /             -
+-   /  /    /  /              -
+-  /__/    /__/  Halo Finder  -
+-------------------------------
 
 
 #Sections:#
 
-I: 			Info
+I: 		Info
 II: 		Installation
 IIa.	 	Troubleshooting
 III: 		Running The Code
 IIIa:	 	Demo
 IIIb:	 	Experimental
-IV:			Partial Runs
-V: 			Creating Datasets
+IV:		Partial Runs
+V: 		Creating Datasets
 
 
 
@@ -44,13 +44,13 @@ TensorFlow info:
 	DATA:
 		-COMPILER_VERSION = '4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39....
 		-CXX11_ABI_FLAG = 0
-    	-GIT_VERSION = 'v1.5.0-0-g37aa430d84'
-    	-GRAPH_DEF_VERSION = 24
-    	-VERSION = '1.5.0'
-    PACKAGE CONTENTS:
-    	-contrib (package), core (package), examples (package), libtensorflow_framework, python (package), tools (package)
-    SUBMODULES:
-    	-app, bitwise, compat, data, distributions, errors, estimator, feature_column, flags, gfile, graph_util, image, initializers, keras, layers, linalg, logging, losses, metrics, nn, profiler, python_io, pywrap_tensorflow, resource_loader, saved_model, sets, spectral, summary, sysconfig, test, train, user_ops
+    		-GIT_VERSION = 'v1.5.0-0-g37aa430d84'
+    		-GRAPH_DEF_VERSION = 24
+    		-VERSION = '1.5.0'
+    	PACKAGE CONTENTS:
+    		-contrib (package), core (package), examples (package), libtensorflow_framework, python (package), tools (package)
+    	SUBMODULES:
+    		-app, bitwise, compat, data, distributions, errors, estimator, feature_column, flags, gfile, graph_util, image, initializers, keras, layers, linalg, logging, losses, metrics, nn, profiler, python_io, pywrap_tensorflow, resource_loader, saved_model, sets, spectral, summary, sysconfig, test, train, user_ops
 
 
 
