@@ -57,13 +57,18 @@ TensorFlow info:
 
 If necessary, install Python 2.7.x from the following link:
 
-	`https://www.python.org/downloads/`
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+
 On MacOSX can also use homebrew (if installed):
 
 	`brew install python2` (and associated dependencies as listed)
+	
+	
 Install TensorFlow (compatible with Python2) from the following link:
 
-	`https://www.tensorflow.org/install/`
+[https://www.tensorflow.org/install/](https://www.tensorflow.org/install/)
+
 
 ### IIa: Installation Troubleshooting- ###
 
