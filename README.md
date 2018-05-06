@@ -14,7 +14,7 @@
 </pre>
 
 # Sections: #
-
+<pre>
 I: 		Info
 II: 		Installation
 IIa.	 	Troubleshooting
@@ -23,7 +23,7 @@ IIIa:	 	Demo
 IIIb:	 	Experimental
 IV:		Partial Runs
 V: 		Creating Datasets
-
+</pre>
 
 
 
