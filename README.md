@@ -1,4 +1,4 @@
-#                   Tensorflow Halo Finder (Kmeans)		      #
+#                   TensorFlow Halo Finder (Kmeans)		      #
 #                     Will Kinney, John Nord                          #
 #                   Using updated API as of 5/3/18    	              #
 <pre>
