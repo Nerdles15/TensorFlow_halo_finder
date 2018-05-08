@@ -114,7 +114,7 @@ Execute the program by navigating to the appropriate directory. Folders are as f
 
 Program runs unsupervised KMeans clustering on supplied test files.
 
-Can choose between 64^3 or 128^3 particle simulation. Can choose between normalizing data or non-normalized.
+Can choose between 64^3 or 128^3 particle simulation. Can choose between normalized data or non-normalized.
 
 Can choose between running just the unsupervised learning segment (iterating through varying numbers of clusters until best fit), or continuing on to calculate cluster positions, plot the clusters and particle positions, and plot the halo mass distribution histogram.	
 
@@ -163,7 +163,7 @@ In addition, included is the program used to read and interpret Gadget-2 snapsho
 Feel free to edit the test program as you see fit!
 
 
-A test snapshot (64_24Mpc_snapshot) is available at the following link:
+A test snapshot containing 64^3 particles in a 24 Mpc box (64_24Mpc_snapshot) is available at the following link:
 
 [64_24Mpc_snapshot](https://buffalo.box.com/s/9phuiagxkr64bs34pf83qadqgnn4ip7j)
 
