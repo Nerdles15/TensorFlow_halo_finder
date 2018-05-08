@@ -84,7 +84,7 @@ Install TensorFlow (compatible with Python2) from the following link:
 Following instructions from the provided links should be sufficient for most systems.
 
 
-In case of difficulty, they offer some troubleshooting- the issues I had and steps I followed are as follows:
+In case of difficulty, they offer some troubleshooting- however the issues I had and steps I followed are as follows:
 
 -On MacOSX (v.10.12.6), system python (and modules) =/= manually installed python (and modules), and the OS prioritizes system python.
 
