@@ -107,7 +107,7 @@ Navigate to appropriate module folder and add the missing initialization file wi
 
 ## III: Running The Code- ##
 
-Execute the program by navigating to the appropriate directory. Folders are as follows:
+To execute the program, first navigate to the appropriate directory. Folders are as follows:
 
 
 -Demo:
