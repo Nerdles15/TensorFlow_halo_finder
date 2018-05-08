@@ -1,6 +1,6 @@
 #                   TensorFlow Halo Finder (Kmeans)		      #
-#                     Will Kinney, John Nord                          #
-#                   Using updated API as of 5/3/18    	              #
+##                     Will Kinney, John Nord                          ##
+####                   Using updated API as of 5/3/18    	              ####
 <pre>
 -------------------------------
 -  _________________________  -
@@ -12,6 +12,15 @@
 -  /__/    /__/  Halo Finder  -
 -------------------------------
 </pre>
+
+## Foreward: ##
+
+This is a halo finding program, designed to use an unsupervised KMeans algorithm in TensorFlow, to see if it's possible to create a competitive halo finder using these means.
+
+Our goal was to create a functional halo finder, and then compare its results to those from existing halo finders (such as AMIGA Halo Finder, Rockstar, FoF_Special, MatchMaker, etc) to see if our output offers a viable alternative.
+
+It can take any set of data fed to it (with any abstract number of parameters) and group together clusters accordingly.
+
 
 # Sections: #
 <pre>
