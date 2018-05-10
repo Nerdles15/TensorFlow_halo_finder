@@ -209,6 +209,8 @@ Your output .txt file should contain 8 (non-zero) columns in the following order
 Gadget-2, N-body cosmological simulation software:
 	https://wwwmpa.mpa-garching.mpg.de/gadget/
 
+-(Also requires N-GenIC for initial conditions, included in link)
+
 AMIGA Halo Finder, N-body halo finder:
 	http://popia.ft.uam.es/AHF/Download.html
 
