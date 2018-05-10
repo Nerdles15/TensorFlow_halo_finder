@@ -8,8 +8,7 @@
 -      /  /    /  /___        -
 -     /  /    /  ____/        -
 -    /  /    /  /             -
--   /  /    /  /              -
--  /__/    /__/  Halo Finder  -
+-   /__/    /__/  Halo Finder -
 -------------------------------
 </pre>
 
@@ -32,6 +31,7 @@ IIIa:	 	Demo
 IIIb:	 	Experimental
 IV:		Partial Runs
 V: 		Creating Datasets
+VI:		Additional Resources
 </pre>
 
 
@@ -204,5 +204,27 @@ Your output .txt file should contain 8 (non-zero) columns in the following order
 
 
 
+## VI: Additional Resources- ##
+
+Gadget-2, N-body cosmological simulation software:
+	https://wwwmpa.mpa-garching.mpg.de/gadget/
+
+AMIGA Halo Finder, N-body halo finder:
+	http://popia.ft.uam.es/AHF/Download.html
+
+FoF_Special, N-body halo finder:
+	http://lastro.epfl.ch/misc/TP4/doc/_downloads/fof.tar.gz , 	
+[instructions under section 3: Extracting Halos](http://obswww.unige.ch/lastro/misc/TP4/doc/rst/Exercices/Ex05.html)
+
+^ These were the programs I was able to use successfully.
+
+
+Others exist, but I was unable to get them to function correctly (if at all):
+
+Rockstar, N-body halo finder:
+	https://bitbucket.org/gfcstanford/rockstar
+
+MatchMaker, N-body halo finder:
+	https://github.com/damonge/MatchMaker
 
 
