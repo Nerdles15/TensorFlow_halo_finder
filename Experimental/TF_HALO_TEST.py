@@ -142,8 +142,7 @@ print '* /_____   _____/  ________/  *'
 print '*      /  /    /  /___        *'
 print '*     /  /    /  ____/        *'
 print '*    /  /    /  /             *'
-print '*   /  /    /  /              *'
-print '*  /__/    /__/  Halo Finder  *'
+print '*   /__/    /__/  Halo Finder *'
 print '*******************************\n'
 
 start_time = timeit.default_timer()
