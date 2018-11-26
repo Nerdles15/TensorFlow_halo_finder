@@ -165,7 +165,7 @@ Feel free to edit the test program as you see fit!
 
 A test snapshot containing 64^3 particles in a 24 Mpc box (64_24Mpc_snapshot) is available at the following link:
 
-[64_24Mpc_snapshot](https://app.box.com/file/291779646598)
+[64_24Mpc_snapshot](https://app.box.com/s/9phuiagxkr64bs34pf83qadqgnn4ip7j)
 
 
 
