@@ -128,7 +128,7 @@ If you wish to run user-supplied data, be sure to add new code accordingly in TF
 
 You will need to download the Fullscale.txt data file (since it's too large for github to host) into the `/Release_Version/Demo/` folder. Link is below:
 
-[Fullscale.txt](https://buffalo.box.com/s/wnorlmtkepkmapgv1bcx7c2ex8ggjkbc)
+[Fullscale.txt](https://app.box.com/file/291781438093)
 
 Navigate to `cd /[YOUR/SYS/PATH/HERE]/Release_Version/Demo/`.
 
@@ -149,7 +149,7 @@ Choices will include 64^3 vs 128^3 file, normalized vs non-normalized data, and 
 
 You will need to download the Fullscale.txt data file (since it's too large for github to host) into the `/Release_Version/Experimental/` folder. Link is below:
 
-[Fullscale.txt](https://buffalo.box.com/s/wnorlmtkepkmapgv1bcx7c2ex8ggjkbc)
+[Fullscale.txt](https://app.box.com/file/291781438093)
 
 Navigate to `cd /[YOUR/SYS/PATH/HERE]/Release_Version/Experimental`.
 
@@ -165,7 +165,7 @@ Feel free to edit the test program as you see fit!
 
 A test snapshot containing 64^3 particles in a 24 Mpc box (64_24Mpc_snapshot) is available at the following link:
 
-[64_24Mpc_snapshot](https://buffalo.box.com/s/9phuiagxkr64bs34pf83qadqgnn4ip7j)
+[64_24Mpc_snapshot](https://app.box.com/file/291779646598)
 
 
 
